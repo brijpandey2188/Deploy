@@ -1,0 +1,2 @@
+# Deploy
+Next js project
